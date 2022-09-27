@@ -1,0 +1,22 @@
+{
+    "name": "kryuko/find-every-page",
+    "require": {
+        "symfony/dom-crawler": "^5.4",
+        "symfony/css-selector": "^5.4"
+    },
+    "require-dev": {
+        "symfony/dom-crawler": "^5.4",
+        "symfony/css-selector": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kryuko\\FindEveryPage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kryuko",
+            "email": "1374841+Kryuko@users.noreply.github.com"
+        }
+    ]
+}
